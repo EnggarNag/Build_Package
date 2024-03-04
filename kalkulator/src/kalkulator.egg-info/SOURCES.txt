@@ -3,6 +3,7 @@ setup.py
 src/kalkulator/__init__.py
 src/kalkulator/aritmatika.py
 src/kalkulator/bmi.py
+src/kalkulator/konversi.py
 src/kalkulator/utils.py
 src/kalkulator.egg-info/PKG-INFO
 src/kalkulator.egg-info/SOURCES.txt
@@ -11,3 +12,4 @@ src/kalkulator.egg-info/requires.txt
 src/kalkulator.egg-info/top_level.txt
 tests/test_aritmatika.py
 tests/test_bmi.py
+tests/test_konversi.py
